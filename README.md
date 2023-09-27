@@ -8,6 +8,10 @@
 * Trata-se de um aplicativo para cadastro de contatos;
 * **Tecnologias usadas**: `🆔 Kotlin`
 
+<div align = "center">
+  <img src="https://github.com/bhS1lva/Projeto-Android-Lista-Contatos/assets/101880543/e2fcde02-7f59-4c39-8ac6-1241dacf3021"/>
+</div>
+
 ## Design Patterns aplicados
 
 Padrões de design (*Design Patterns*) são aplicados para uma melhor organização de projetos, assim facilitando a manutenção e compreensão de partes da aplicação.
@@ -53,7 +57,6 @@ que retorna uma instância única da classe `ContatoDb` para que a conexão com 
 isso é feito utilizando o bloco `companion block` do Kotlin que permite a criação de códigos estáticos, e o modificador `lateinit` na propriedade `instance` que permite
 a inicialização tardia de classes.
 
-
 # 👥 Colaboradores
 
 * Celso Furtado (instrutor da fase);
@@ -62,4 +65,5 @@ a inicialização tardia de classes.
 # 🛎 Considerações
 
 * Por enquanto nenhuma validação para a entrada de dados foi aplicada ao projeto;
+* Texto autoral, redigido por Bruno Henrique;
 * Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, estou à disposição.
