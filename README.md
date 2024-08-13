@@ -1,12 +1,11 @@
-# Projeto para cadastro de lista de contatos
+# Projeto lista de contatos
 
-![badge em desenvolvimento](https://user-images.githubusercontent.com/101880543/205785366-88c0d43a-2dc4-4ad0-a362-6e0b6fb8b089.png)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 # 📝 Sobre o projeto
 
 * Projeto realizado durante a fase 5 - **App World** da graduação **FIAP**;
-* Trata-se de um aplicativo para cadastro de contatos;
-* **Tecnologias usadas**: `🆔 Kotlin`
+* Trata-se de um aplicativo para cadastro de contatos.
 
 <div align = "center">
   <img src="https://github.com/bhS1lva/Projeto-Android-Lista-Contatos/assets/101880543/e2fcde02-7f59-4c39-8ac6-1241dacf3021"/>
@@ -59,11 +58,11 @@ a inicialização tardia de classes.
 
 # 👥 Colaboradores
 
-* Celso Furtado (instrutor da fase);
+* Celso Furtado (instrutor);
 * Bruno Henrique;
 
 # 🛎 Considerações
 
 * Por enquanto nenhuma validação para a entrada de dados foi aplicada ao projeto;
 * Texto autoral, redigido por Bruno Henrique;
-* Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, estou à disposição.
+* Caso encontre <strong>bugs</strong> ou tenha <strong>sugestões</strong>, abra uma issue ou entre em contato.
